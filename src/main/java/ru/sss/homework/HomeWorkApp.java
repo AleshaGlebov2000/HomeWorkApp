@@ -45,7 +45,7 @@ public class HomeWorkApp {
           }
       }*/
 
-    /*public static void main(String[] args) {
+    public static void main(String[] args) {
         compareNumbers(); }
     public static void compareNumbers () {
         int a = 9;
@@ -55,5 +55,5 @@ public class HomeWorkApp {
         } else {
             System.out.println("a < b");
         }
-    }*/
+    }
 }
